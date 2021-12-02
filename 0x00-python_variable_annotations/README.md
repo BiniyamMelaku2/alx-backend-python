@@ -107,8 +107,8 @@ $ ./9-main.py
 ## [10. Duck typing - first element of a sequence](./100-safe_first_element.py)
 Augment the following code with the correct duck-typed annotations:
 
-# The types of the elements of the input are not know
 ```
+# The types of the elements of the input are not know
 def safe_first_element(lst):
     if lst:
         return lst[0]
