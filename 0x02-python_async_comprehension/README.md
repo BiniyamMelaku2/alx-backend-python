@@ -6,6 +6,9 @@ Read or watch:
 * [PEP 530 – Asynchronous Comprehensions](https://www.python.org/dev/peps/pep-0530/)
 * [What’s New in Python: Asynchronous Comprehensions / Generators](https://www.blog.pythonlibrary.org/2017/02/14/whats-new-in-python-asynchronous-comprehensions-generators/)
 * [Type-hints for generators](https://stackoverflow.com/questions/42531143/type-hinting-generator-in-python-3-6)
+* [Parallel asynchronous IO in Python's coroutines](https://stackoverflow.com/questions/47169474/parallel-asynchronous-io-in-pythons-coroutines)
+* [Coroutines and Tasks](https://docs.python.org/3/library/asyncio-task.html)
+* [Running coroutines in Python with Asyncio](https://medium.com/cassandra-cryptoassets/running-coroutines-in-python-with-asyncio-ca8e141137e2)
 
 ## General
 * All your functions and coroutines must be `type-annotated`.
