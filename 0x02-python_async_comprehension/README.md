@@ -9,6 +9,8 @@ Read or watch:
 * [Parallel asynchronous IO in Python's coroutines](https://stackoverflow.com/questions/47169474/parallel-asynchronous-io-in-pythons-coroutines)
 * [Coroutines and Tasks](https://docs.python.org/3/library/asyncio-task.html)
 * [Running coroutines in Python with Asyncio](https://medium.com/cassandra-cryptoassets/running-coroutines-in-python-with-asyncio-ca8e141137e2)
+* [Parallel execution of asyncio functions](https://hinty.io/ivictbor/parallel-execution-of-asyncio-functions/)
+* []()
 
 ## General
 * All your functions and coroutines must be `type-annotated`.
