@@ -82,7 +82,7 @@ class TestGithubOrgClient(unittest.TestCase):
             cls.mock = cls.get_patcher.start()
 
         def test_public_repos(self):
-            ''''''
+            '''to test GithubOrgClient.public_repos'''
             test_class = GithubOrgClient('google')
             self.assertEqual(test_class.org, self.org_payload)
             self.assertEqual(test_class.repos_payload, self.repos_payload)
